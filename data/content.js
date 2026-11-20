@@ -3,7 +3,7 @@
 
 export const site = {
   name: 'Divyanshu Rai',
-  url: 'https://divyanshurai.vercel.app', // update after deploying
+  url: 'https://iamdivyanshurai.vercel.app',
   description:
     'Divyanshu Rai is a Computer Engineering student and creative: graphic design, video, music and web, from Nepal to Southern Miss.',
   email: 'divyanshu.2004.rai@gmail.com',
